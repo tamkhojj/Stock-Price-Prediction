@@ -1,0 +1,23 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+joblib
+tqdm
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Scikit-learn for traditional ML models
+scikit-learn
+
+# XGBoost
+xgboost
+
+# LSTM
+keras
+tensorflow
+
+# ARIMA
+statsmodels
